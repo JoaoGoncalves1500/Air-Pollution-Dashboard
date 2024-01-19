@@ -21,4 +21,3 @@ data = st.sidebar.multiselect("Select the year(s)",anos)
 #check_2018 = st.sidebar.checkbox("2018")
 
 # Dashboard
-#st.bar_chart(df["country"],df["2017"])
